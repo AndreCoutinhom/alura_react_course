@@ -9,3 +9,7 @@
 * Investigue e analise mensagens de erro
 * Modifique e evolua componentes de acordo com a necessidade do projeto
 * Prototipe uma aplicação do zero até o deploy
+
+## Projeto Organo
+
+Veja minha versão [aqui](https://github.com/AndreCoutinhom/alura_andre_organo)

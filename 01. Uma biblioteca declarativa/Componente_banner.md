@@ -158,7 +158,7 @@ Paulo: Costumamos receber isso pronto de quem faz o Figma, então?
 
 Vincios: Exato. Esse é o nosso `background-color`:
 
-``` javascript
+``` css
 .banner {
     background-color: #6278f7
 }
@@ -167,7 +167,7 @@ Vinicios: Vamos querer também que a imagem fique centralizada dentro desse bann
 
 Além disso, queremos deixar a imagem responsiva, então vamos fazer um `.banner` selecionando o `img` e vamos dizer que o tamanha máxima `max-width` é de `100%`.
 
-``` javascript
+``` css
 .banner {
     background-color: #6278f7
     text-align: center

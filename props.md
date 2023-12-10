@@ -22,7 +22,7 @@ const Colaborador = (props) => {
 }
 ```
 
-Neste exemplo, `props` serve como uma entidade que determina o que será considerado um parâmetro de entrada. Qualquer componente do código que sucedê-lo, será considerado parte da função.
+Neste exemplo, `props` serve como uma entidade que determina o que será considerado um parâmetro de entrada. Qualquer propriedade do código que sucedê-lo, será considerado parte da função.
 
 ---
 
